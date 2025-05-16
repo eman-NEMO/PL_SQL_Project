@@ -1,4 +1,4 @@
-﻿set SERVEROUTPUT on
+set SERVEROUTPUT on
 
 --Q2
 -- create table salary logs 
